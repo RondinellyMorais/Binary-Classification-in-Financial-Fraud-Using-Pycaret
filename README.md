@@ -1,4 +1,4 @@
-# Binary-Classification-in-Financial-Fraud-Using-Pycaret
+# Binary Classification in Financial Fraud Using Pycaret
 ![oi](https://github.com/RondinellyMorais/Binary-Classification-in-Financial-Fraud-Using-Pycaret/blob/master/pycaret.png)
 
 ### O pycaret é uma ferramenta de auto-machine learning escrita em python que permite automatizar muitos processo de preparação dos dados. Essa biblioteca foi inspirada no pacote caret da linguagem R. O principal objetivo do pycaret é reduzir o tempo de ciclo da etapa de hipótese até os insights,  aumentando consideravelmente a produtividade.
