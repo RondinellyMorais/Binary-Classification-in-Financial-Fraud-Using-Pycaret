@@ -1,7 +1,7 @@
 # Binary Classification in Financial Fraud Using Pycaret
 ![oi](https://github.com/RondinellyMorais/Binary-Classification-in-Financial-Fraud-Using-Pycaret/blob/master/pycaret.png)
 
-### Pycaret is an auto-machine learning tool written in python that allows you to automate many data preparation processes. This library was inspired by the R language package caret. The main goal of pycaret is to reduce the cycle time from the hypothesis stage to the insights, increasing productivity considerably.
+### Pycaret is an auto-machine learning tool written in python that allows you to automate many data preparation processes. This library was inspired by the R language package caret. The main goal of pycaret is to reduce the cycle time from the hypothesis stage to the insights, increasing productivity considerably. We can knowleded more about pycaret in follow link: [pycaret](https://github.com/pycaret/pycaret)
 
  ### The problem we will deal with is a typical binary classification problem. We have a dataset containing data about financial transactions made by customers through various banking services. The goal is to predict the occurrence of fraudulent transactions using machine learning models. The dataset consists of 7 columns with numeric values and a categorical column containing the two classes we want to predict.
  
